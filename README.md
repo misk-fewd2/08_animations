@@ -7,7 +7,7 @@
 ![6](images/6.png)
 ![7](images/7.png)
 
-### [https://easings.net/](https://easings.net/)
+## [https://easings.net/](https://easings.net/)
 
 ![8](images/8.png)
 ![9](images/9.png)
@@ -27,7 +27,7 @@
 ![22](images/22.png)
 ![23](images/23.png)
 
-### Transform Origin Codepen](https://codepen.io/jme11/pen/wYZZGv)
+## Transform Origin Codepen](https://codepen.io/jme11/pen/wYZZGv)
 
 ![24](images/24.png)
 ![25](images/25.png)
@@ -39,10 +39,10 @@
 ![30](images/30.png)
 ![31](images/31.png)
 
-### [Animation Practice 1 Starter Code](https://codepen.io/jme11/pen/yRrWZZ)
+## [Animation Practice 1 Starter Code](https://codepen.io/jme11/pen/yRrWZZ)
 
-### [Animation Practice 1 Solution](https://codepen.io/jme11/pen/NOzzmY)
+## [Animation Practice 1 Solution](https://codepen.io/jme11/pen/NOzzmY)
 
-### [Animation Practice 2 Starter Code](https://codepen.io/jme11/pen/pZjLLJ)
+## [Animation Practice 2 Starter Code](https://codepen.io/jme11/pen/pZjLLJ)
 
-### [Animation Practice 2 Solution](https://codepen.io/jme11/pen/LBpQdG)
+## [Animation Practice 2 Solution](https://codepen.io/jme11/pen/LBpQdG)
