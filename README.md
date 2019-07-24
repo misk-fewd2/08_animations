@@ -27,9 +27,8 @@
 ![20](images/20.png)
 ![21](images/21.png)
 ![22](images/22.png)
-![23](images/23.png)
 
-## [Transform Origin Codepen](https://codepen.io/jme11/pen/wYZZGv)
+<hr>
 
 ![24](images/24.png)
 ![25](images/25.png)
@@ -48,3 +47,46 @@
 ## [Animation Practice 2 Starter Code](https://codepen.io/jme11/pen/pZjLLJ)
 
 ## [Animation Practice 2 Solution](https://codepen.io/jme11/pen/LBpQdG)
+
+<br>
+
+## Additional Resources
+
+- [Paul Irish CodePen Animate Translate Example](https://codepen.io/paulirish/full/LsxyF)
+- [Paul Irish CodePen Animate Top/Left Example](https://codepen.io/paulirish/full/nkwKs)
+- [Animate Translate](https://codepen.io/chriscoyier/pen/kyctm)
+- [Animate Top/Left](https://codepen.io/chriscoyier/pen/pBCax)
+- [Animate Flexbox Direction](https://codepen.io/osublake/pen/eJGrPN)
+- [Animate Flexbox Order](https://codepen.io/osublake/pen/gaQNLK)
+- [CSS Animations (basic keyframes and syntax)](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+- [W3 Schools](https://www.w3schools.com/css/css3_animations.asp)
+- [Keyframes CodePen Example](https://codepen.io/marcwright/pen/rjaeER?editors=1100#0)
+- [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+
+<br>
+
+
+## Videos
+- [CSS Animation](https://www.youtube.com/watch?v=9RfHG3K8U_Q&index=31&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [CSS Transitions](https://www.youtube.com/watch?v=Xu3SrQhtBqw&index=30&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [CSS Transform](https://www.youtube.com/watch?v=Gu-HBBZLyjg&index=29&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
